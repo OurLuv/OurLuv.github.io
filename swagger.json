@@ -6,7 +6,7 @@
       "contact": {},
       "version": "1.0"
   },
-  "host": "https://7yey3.wiremockapi.cloud",
+  "host": "7yey3.wiremockapi.cloud",
   "basePath": "/",
   "paths": {
       "/login": {
